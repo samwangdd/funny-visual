@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200px" height="200px" viewBox="0 0 100 100">
+  <!-- <path d="M 10 10 H 70 V 70 H 10 Z" fill="transparent" stroke="red" /> -->
+  <path d="M 10 10 S 40 50, 70 20 S 150 150, 180 80 " stroke="red" fill="transparent" />
+</svg>
